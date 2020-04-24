@@ -1,0 +1,21 @@
+#videoFrameOne {
+    width: 600px;
+    height: 400px;
+}
+#videoFrameTwo {
+    width: 600px;
+    height: 400px;
+}
+.img-fluid {
+    height: 300%;
+}
+.bg-custom {
+    background-color: rgba(14, 148, 75, 0.54);
+}
+.bg-custom-secondary {
+   background-color: rgb(72, 103, 132);
+}
+
+.footer {
+    background-color: rgb(72, 103, 132);
+}
